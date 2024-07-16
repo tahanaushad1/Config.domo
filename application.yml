@@ -4,4 +4,4 @@ boot:
         url: http://localhost:1111/
   spring:
   application:
-    name: MS_Rest_API
+    name: API
